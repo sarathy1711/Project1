@@ -1,0 +1,40 @@
+.bigcontainer{
+    height: auto;
+    width: auto;
+    border: 1px solid darkmagenta;
+}
+.bigbox{
+    width: auto;
+    position: relative;
+    height: 500px;
+    border: 1px solid black;
+    background-image: url(bigboximage.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.birthdaypartytext{
+    width: 600px;
+    position: absolute;
+    bottom: 50px;
+    left: 200px;
+    overflow: hidden;
+    height: 150px;
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.menubar{
+    align-items: left;
+    width: auto;
+    height: 60px;
+    border: 1px solid darkblue;
+}
+
+.whatwedo{
+    width: auto;
+    height: 75px;
+    border: 1px solid hotpink;
+    text-align: center;
+}
